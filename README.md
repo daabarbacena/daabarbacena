@@ -6,7 +6,7 @@
 <p align="center"> My name is Daniel, and I am a Software Engineering. I have been fluent in English since the age of 15. With a keen interest in technology, I have always sought to understand the logic behind its functioning, which led me to develop a passion for the tech industry. Initially, I delved into front-end development through the British School of Creative Arts, then i started to study the back-end with the aim of becoming a full-stack professional. At the moment im studying software engineering in technological college SENAI FATESG.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=daabarbacena&theme=radical&mode=weekly" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=daabarbacena&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats2-lovat.vercel.app/api/top-langs/?username=daabarbacena&show_icons=true&theme=radical&layout=compact" />
  </div>
  
