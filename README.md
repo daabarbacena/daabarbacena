@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">My name is Daniel, and I am a Software Engineering student at FIAP in my first semester. I have been fluent in English since the age of 15. With a keen interest in technology, I have always sought to understand the logic behind its functioning, which led me to develop a passion for the tech industry. Initially in july of 2023, I delved into full-stack development through the British School of Creative Arts, then i started to study cyber security with the aim of becoming a full-stack and security professional. My proficiency lies in technologies such as JavaScript, Java, HTML, CSS, Pentest, React, Bootstrap.
+<p align="center">My name is Daniel, and I am a Software Engineering student at FIAP in my secound semester. I have been fluent in English since the age of 15. With a keen interest in technology, I have always sought to understand the logic behind its functioning, which led me to develop a passion for the tech industry. Initially in july of 2023, I delved into full-stack development through the British School of Creative Arts, then i started to study cyber security with the aim of becoming a full-stack and dev ops, security professional. My proficiency lies in technologies such as JavaScript, Java, HTML, CSS, Pentest, React, Bootstrap, AWS.
 E-mail for contact: danielbtm@outlook.com</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
