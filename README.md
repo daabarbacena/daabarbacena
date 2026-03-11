@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=70% src="https://github.com/daabarbacena/daabarbacena/blob/main/profgile.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=40% src="https://github.com/daabarbacena/daabarbacena/blob/main/profgile.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
